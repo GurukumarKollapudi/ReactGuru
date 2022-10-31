@@ -1,0 +1,28 @@
+ul{
+    display: flex;
+    background-color: aqua;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style-type: none;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(102, 102, 194);
+}
+ul li a{
+    text-decoration: none;
+}
+ul:hover{
+    height: 100px;
+    background-color: antiquewhite;
+}
+.hello{
+   background-color: cornflowerblue;
+   width: 100px;
+   height: 30px;
+   margin-top:10px;
+   text-align: center;
+   padding: 30px 0px;
+}
